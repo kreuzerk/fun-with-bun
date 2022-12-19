@@ -3,8 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "start": " index.ts",
-    "test": " wiptest"
+    "start": "bun index.ts",
+    "test": "bun wiptest"
   },
   "devDependencies": {
     "bun-types": "^0.3.0"
